@@ -1,11 +1,10 @@
-package com.maripavlova.courseApp.controllers;
+package com.maripavlova.courseApp.ListData.controllers;
 
-import com.maripavlova.courseApp.resources.Topic;
-import com.maripavlova.courseApp.services.TopicService;
+import com.maripavlova.courseApp.ListData.resources.Topic;
+import com.maripavlova.courseApp.ListData.services.TopicService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Arrays;
 import java.util.List;
 
 @RestController

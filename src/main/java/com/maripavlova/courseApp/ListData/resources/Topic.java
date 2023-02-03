@@ -1,4 +1,4 @@
-package com.maripavlova.courseApp.resources;
+package com.maripavlova.courseApp.ListData.resources;
 
 public class Topic {
     private String id;

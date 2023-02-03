@@ -1,6 +1,6 @@
-package com.maripavlova.courseApp.services;
+package com.maripavlova.courseApp.ListData.services;
 
-import com.maripavlova.courseApp.resources.Topic;
+import com.maripavlova.courseApp.ListData.resources.Topic;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
